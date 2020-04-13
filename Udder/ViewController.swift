@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     }
     
     
-    override func viewDidDissappear(_ animated: Bool) {
+    override func viewDidDisappear(_ animated: Bool) {
     print("adios")
     }
 }
